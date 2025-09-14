@@ -1,5 +1,5 @@
 {
   "packages": [
-    {"name": "helloworld", "url": ""}
+    {"name": "helloworld", "url": "https://raw.githubusercontent.com/133cx-mrkaboom/packstorm/main/helloworld.zip"}
   ]
 }
